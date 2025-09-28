@@ -1,6 +1,8 @@
 # 🏥 Registro de Plantão
 
-Este é meu primeiro aplicativo Android, desenvolvido com apoio de IA, voltado para o registro de plantões em ambientes de cuidado. O app permite organizar informações essenciais como pressão arterial, medicação, cardápio, observações e tarefas realizadas durante o turno.
+Aplicativo Android desenvolvido para registrar informações essenciais durante plantões em ambientes de cuidado. Criado com apoio de IA, o app organiza dados como pressão arterial, medicação, cardápio, observações e tarefas realizadas, tudo em uma interface funcional e intuitiva.
+
+---
 
 ## 🚀 Funcionalidades
 
@@ -9,35 +11,56 @@ Este é meu primeiro aplicativo Android, desenvolvido com apoio de IA, voltado p
 - Cardápio do jantar com campos dinâmicos
 - Observações por seção com botão de adição
 - Relatório final editável e copiável
-- Interface intuitiva com botões interativos
+- Interface intuitiva com botões interativos e campos inteligentes
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - Android Studio
-- Kotlin (ou Java, dependendo da versão)
+- Kotlin *(ou Java, dependendo da versão usada)*
 - Gradle
 - Inteligência Artificial para estruturação e lógica de interface
 
+---
+
 ## 📸 Capturas de Tela
 
-> Adicione imagens na pasta `/screenshots` e insira aqui:
-> `![Tela Principal](screenshots/tela-principal.png)`
+### 🧾 Tela Inicial e Dados Gerais
+![Dados Gerais](1.png)
+
+### 🍽️ Cardápio e Observações do Jantar
+![Cardápio](2.png)
+
+### 💊 Medicação e Cuidados Específicos
+![Medicação e Cuidados](3.png)
+
+### 🛏️ Rotina Noturna, Relatórios e Tarefas
+![Rotina e Relatórios](4.png)
+
+### 📋 Relatório Master Editável
+![Relatório Master](5.png)
+
+### 🩺 Pressão Arterial e Cardápio
+![Pressão e Cardápio](6.png)
+
+---
 
 ## 📦 Build
 
 - Versão: `1.0`
 - Tipo: `Debug`
 - Min SDK: `24` (Android 7.0)
+- Arquivo de metadados: `output-metadata.json`
 
-## 📁 Arquivos Importantes
-
-- `output-metadata.json`: Metadados do build gerado
-- `app-debug.apk`: APK de teste (não incluído no repositório público)
+---
 
 ## ✍️ Autor
 
 **Thiago Placido**  
-Desenvolvedor iniciante com perfil investigativo e realista, apaixonado por tecnologia prática e funcional.
+Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por tecnologia prática, interfaces funcionais e soluções que fazem sentido no mundo real. Explorando IA, apps Android e automações úteis.
+
+---
 
 ## 📄 Licença
 
