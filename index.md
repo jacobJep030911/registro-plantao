@@ -30,14 +30,28 @@ Organize pressão arterial, medicação, cardápio, observações e relatórios 
 
 ---
 
-## 📸 Imagens do App
+## 📸 Galeria de Imagens
 
-![Tela 1](screenshots/1.png)  
-![Tela 2](screenshots/2.png)  
-![Tela 3](screenshots/3.png)  
-![Tela 4](screenshots/4.png)  
-![Tela 5](screenshots/5.png)  
-![Tela 6](screenshots/6.png)
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="screenshots/1.png" target="_blank">
+    <img src="screenshots/1.png" alt="Tela 1" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="screenshots/2.png" target="_blank">
+    <img src="screenshots/2.png" alt="Tela 2" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="screenshots/3.png" target="_blank">
+    <img src="screenshots/3.png" alt="Tela 3" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="screenshots/4.png" target="_blank">
+    <img src="screenshots/4.png" alt="Tela 4" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="screenshots/5.png" target="_blank">
+    <img src="screenshots/5.png" alt="Tela 5" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="screenshots/6.png" target="_blank">
+    <img src="screenshots/6.png" alt="Tela 6" width="180" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+  </a>
+</div>
 
 ---
 
