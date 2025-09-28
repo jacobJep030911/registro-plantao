@@ -5,60 +5,51 @@ Organize pressão arterial, medicação, cardápio, observações e relatórios 
 
 ---
 
-## 🇧🇷 Português
+## Idiomas / Languages / Idiomas
 
-**Funcionalidades:**
-- Registro de pressão arterial por residente
-- Marcação de medicação, jejum e insulina
-- Cardápio do jantar com campos dinâmicos
-- Observações por seção com botões de adição
-- Relatório final editável e copiável ("Master")
-
-📦 [Baixar APK de teste](app-debug.apk)  
-🔗 [Ver repositório no GitHub](https://github.com/thiagoplacido/registro-plantao)
+- 🇧🇷 Português
+- 🇬🇧 English
+- 🇪🇸 Español
 
 ---
 
-## 🇬🇧 English
+## Funcionalidades / Features / Funcionalidades
 
-**Features:**
-- Blood pressure logging per resident
-- Medication, fasting, and insulin tracking
-- Dynamic dinner menu input
-- Section-based observations with add buttons
-- Editable and copyable final report ("Master")
-
-📦 [Download test APK](app-debug.apk)  
-🔗 [View GitHub repository](https://github.com/thiagoplacido/registro-plantao)
+- 📋 Cardápio e Observações do Jantar / Dinner Menu and Observations / Menú de cena y observaciones  
+- 💊 Medicação e Cuidados Específicos / Medication and Specific Care / Medicación y cuidados específicos  
+- 🌙 Rotina Noturna, Relatórios e Tarefas / Night Routine, Reports and Tasks / Rutina nocturna, informes y tareas  
+- 📘 Relatório Master Editável / Editable Master Report / Informe Master editable  
+- 💉 Pressão Arterial e Cateterismo / Blood Pressure and Catheterization / Presión arterial y cateterismo
 
 ---
 
-## 🇪🇸 Español
+## 📦 Downloads
 
-**Funcionalidades:**
-- Registro de presión arterial por residente
-- Seguimiento de medicación, ayuno e insulina
-- Menú de cena con campos dinámicos
-- Observaciones por sección con botones de adición
-- Informe final editable y copiable ("Master")
-
-📦 [Descargar APK de prueba](app-debug.apk)  
-🔗 [Ver repositorio en GitHub](https://github.com/thiagoplacido/registro-plantao)
+- 🔗 [Ver repositório no GitHub](https://github.com/thiagoplacido/registro-plantao)  
+- 📥 [Baixar APK de teste](app-debug.apk)
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Imagens do App
 
-![Tela 1](1.png)  
-![Tela 2](2.png)  
-![Tela 3](3.png)  
-![Tela 4](4.png)  
-![Tela 5](5.png)  
-![Tela 6](6.png)
+![Tela 1](screenshots/1.png)  
+![Tela 2](screenshots/2.png)  
+![Tela 3](screenshots/3.png)  
+![Tela 4](screenshots/4.png)  
+![Tela 5](screenshots/5.png)  
+![Tela 6](screenshots/6.png)
 
 ---
 
-## ✍️ Autor
+## 📦 Build
+
+- Versão: `0.1`  
+- Última Atualização: `2023-07-10`  
+- Ambiente: `Produção`
+
+---
+
+## ✍️ Sobre o Autor
 
 **Thiago Placido**  
 Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por soluções práticas, interfaces funcionais e tecnologia com propósito.
@@ -67,6 +58,4 @@ Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por solu
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.  
-This project is under the MIT License.  
-Este proyecto está bajo la licencia MIT.
+MIT License — livre para usar, modificar e contribuir.
