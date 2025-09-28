@@ -116,7 +116,7 @@ Aplicativo Android desenvolvido para auxiliar profissionais em ambientes de cuid
 ## 📦 Build
 
 - Versão / Version / Versión: `0.1`  
-- Última Atualização / Last Update / Última Actualización: `2023-07-10`  
+- Última Atualização / Last Update / Última Actualización: `2025-09-28`  
 - Ambiente / Environment / Entorno: `Produção / Production`
 
 ---
