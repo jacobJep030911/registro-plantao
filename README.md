@@ -1,30 +1,54 @@
 # 🏥 Registro de Plantão
 
-Aplicativo Android desenvolvido para registrar informações essenciais durante plantões em ambientes de cuidado. Criado com apoio de IA, o app organiza dados como pressão arterial, medicação, cardápio, observações e tarefas realizadas, tudo em uma interface funcional e intuitiva.
+Aplicativo Android desenvolvido para auxiliar profissionais em ambientes de cuidado na organização de informações durante o plantão. Criado com apoio de inteligência artificial, o app oferece uma interface intuitiva para registrar dados clínicos, tarefas realizadas, observações e relatórios finais.
 
 ---
 
-## 🚀 Funcionalidades
+## 🇧🇷 Funcionalidades
 
 - Registro de pressão arterial por residente
-- Marcação de medicação e jejum
+- Marcação de medicação, jejum e insulina
 - Cardápio do jantar com campos dinâmicos
-- Observações por seção com botão de adição
-- Relatório final editável e copiável
-- Interface intuitiva com botões interativos e campos inteligentes
+- Observações por seção com botões de adição
+- Relatório final editável e copiável ("Master")
+- Interface com botões interativos e campos inteligentes
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🇬🇧 Features
 
-- Android Studio
-- Kotlin *(ou Java, dependendo da versão usada)*
-- Gradle
-- Inteligência Artificial para estruturação e lógica de interface
+- Blood pressure logging per resident
+- Medication, fasting, and insulin tracking
+- Dynamic dinner menu input
+- Section-based observations with add buttons
+- Editable and copyable final report ("Master")
+- Interactive interface with smart input fields
 
 ---
 
-## 📸 Capturas de Tela
+## 🇪🇸 Funcionalidades
+
+- Registro de presión arterial por residente
+- Seguimiento de medicación, ayuno e insulina
+- Menú de cena con campos dinámicos
+- Observaciones por sección con botones de adición
+- Informe final editable y copiable ("Master")
+- Interfaz interactiva con campos inteligentes
+
+---
+
+## 🛠️ Tecnologias / Technologies / Tecnologías
+
+- Android Studio  
+- Kotlin *(ou Java)*  
+- Gradle  
+- Inteligência Artificial aplicada à lógica de interface  
+- Artificial Intelligence applied to interface logic  
+- Inteligencia Artificial aplicada a la lógica de interfaz
+
+---
+
+## 📸 Capturas de Tela / Screenshots / Capturas de Pantalla
 
 ### 🧾 Tela Inicial e Dados Gerais
 ![Dados Gerais](1.png)
@@ -48,20 +72,31 @@ Aplicativo Android desenvolvido para registrar informações essenciais durante 
 
 ## 📦 Build
 
-- Versão: `1.0`
-- Tipo: `Debug`
-- Min SDK: `24` (Android 7.0)
-- Arquivo de metadados: `output-metadata.json`
+- Versão / Version / Versión: `1.0`  
+- Tipo / Type / Tipo: `Debug`  
+- Min SDK: `24` (Android 7.0)  
+- Arquivo de metadados / Metadata file / Archivo de metadatos: `output-metadata.json`
 
 ---
 
-## ✍️ Autor
+## ✍️ Autor / Author / Autor
 
 **Thiago Placido**  
-Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por tecnologia prática, interfaces funcionais e soluções que fazem sentido no mundo real. Explorando IA, apps Android e automações úteis.
+Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por soluções práticas, interfaces funcionais e tecnologia com propósito. Explorando IA, apps Android e automações úteis.
+
+Beginner developer with an investigative and realistic profile. Passionate about practical solutions, functional interfaces, and purposeful technology. Exploring AI, Android apps, and useful automations.
+
+Desarrollador principiante con perfil investigativo y realista. Apasionado por soluciones prácticas, interfaces funcionales y tecnología con propósito. Explorando IA, aplicaciones Android y automatizaciones útiles.
 
 ---
 
-## 📄 Licença
+## 📄 Licença / License / Licencia
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e contribuir.
+Este projeto está sob a licença MIT.  
+This project is under the MIT License.  
+Este proyecto está bajo la licencia MIT.
+
+Sinta-se livre para usar, modificar e contribuir.  
+Feel free to use, modify, and contribute.  
+Siéntete libre de usar, modificar y contribuir.
+``
