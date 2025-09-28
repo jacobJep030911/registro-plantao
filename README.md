@@ -74,7 +74,7 @@ Clique nas imagens para ampliar:
 ## 📦 Build
 
 - **Versão:** `0.1`  
-- **Última Atualização:** `2023-07-10`  
+- **Última Atualização:** `2025-09-28`  
 - **Ambiente:** `Produção`
 
 ---
