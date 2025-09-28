@@ -54,62 +54,27 @@ Aplicativo Android desenvolvido para auxiliar profissionais em ambientes de cuid
 
 ---
 
-## 📸 Galeria Interativa
+## 📸 Galeria de Imagens
 
-<style>
-  .gallery img {
-    width: 180px;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-  .gallery img:hover {
-    transform: scale(1.05);
-  }
-  .lightbox {
-    display: none;
-    position: fixed;
-    z-index: 999;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0,0,0,0.8);
-    justify-content: center;
-    align-items: center;
-  }
-  .lightbox img {
-    max-width: 90%;
-    max-height: 80%;
-    border-radius: 10px;
-  }
-  .close-btn {
-    position: absolute;
-    top: 20px; right: 30px;
-    font-size: 30px;
-    color: white;
-    cursor: pointer;
-  }
-</style>
-
-<div class="gallery" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="screenshots/1.png" onclick="document.getElementById('light1').style.display='flex'" alt="Tela 1">
-  <img src="screenshots/2.png" onclick="document.getElementById('light2').style.display='flex'" alt="Tela 2">
-  <img src="screenshots/3.png" onclick="document.getElementById('light3').style.display='flex'" alt="Tela 3">
-  <img src="screenshots/4.png" onclick="document.getElementById('light4').style.display='flex'" alt="Tela 4">
-  <img src="screenshots/5.png" onclick="document.getElementById('light5').style.display='flex'" alt="Tela 5">
-  <img src="screenshots/6.png" onclick="document.getElementById('light6').style.display='flex'" alt="Tela 6">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img src="screenshots/1.png" alt="Tela 1" width="180" onclick="document.getElementById('light1').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
+  <img src="screenshots/2.png" alt="Tela 2" width="180" onclick="document.getElementById('light2').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
+  <img src="screenshots/3.png" alt="Tela 3" width="180" onclick="document.getElementById('light3').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
+  <img src="screenshots/4.png" alt="Tela 4" width="180" onclick="document.getElementById('light4').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
+  <img src="screenshots/5.png" alt="Tela 5" width="180" onclick="document.getElementById('light5').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
+  <img src="screenshots/6.png" alt="Tela 6" width="180" onclick="document.getElementById('light6').style.display='flex'" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer;" />
 </div>
 
 <!-- Lightboxes -->
-<div id="light1" class="lightbox" onclick="this.style.display='none'">
-  <span class="close-btn" onclick="document.getElementById('light1').style.display='none'">&times;</span>
-  <img src="screenshots/1.png">
+<div id="light1" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:999;" onclick="this.style.display='none'">
+  <span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span>
+  <img src="screenshots/1.png" style="max-width:90%; max-height:80%; border-radius:10px;" />
 </div>
-<div id="light2" class="lightbox" onclick="this.style.display='none'"><span class="close-btn" onclick="document.getElementById('light2').style.display='none'">&times;</span><img src="screenshots/2.png"></div>
-<div id="light3" class="lightbox" onclick="this.style.display='none'"><span class="close-btn" onclick="document.getElementById('light3').style.display='none'">&times;</span><img src="screenshots/3.png"></div>
-<div id="light4" class="lightbox" onclick="this.style.display='none'"><span class="close-btn" onclick="document.getElementById('light4').style.display='none'">&times;</span><img src="screenshots/4.png"></div>
-<div id="light5" class="lightbox" onclick="this.style.display='none'"><span class="close-btn" onclick="document.getElementById('light5').style.display='none'">&times;</span><img src="screenshots/5.png"></div>
-<div id="light6" class="lightbox" onclick="this.style.display='none'"><span class="close-btn" onclick="document.getElementById('light6').style.display='none'">&times;</span><img src="screenshots/6.png"></div>
+<div id="light2" style="display:none;" onclick="this.style.display='none'"><span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span><img src="screenshots/2.png" style="max-width:90%; max-height:80%; border-radius:10px;" /></div>
+<div id="light3" style="display:none;" onclick="this.style.display='none'"><span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span><img src="screenshots/3.png" style="max-width:90%; max-height:80%; border-radius:10px;" /></div>
+<div id="light4" style="display:none;" onclick="this.style.display='none'"><span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span><img src="screenshots/4.png" style="max-width:90%; max-height:80%; border-radius:10px;" /></div>
+<div id="light5" style="display:none;" onclick="this.style.display='none'"><span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span><img src="screenshots/5.png" style="max-width:90%; max-height:80%; border-radius:10px;" /></div>
+<div id="light6" style="display:none;" onclick="this.style.display='none'"><span style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">×</span><img src="screenshots/6.png" style="max-width:90%; max-height:80%; border-radius:10px;" /></div>
 
 ---
 
