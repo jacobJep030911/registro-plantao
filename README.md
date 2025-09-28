@@ -58,12 +58,16 @@ Aplicativo Android desenvolvido para auxiliar profissionais em ambientes de cuid
 
 Clique nas imagens para ampliar:
 
-[![Tela 1](screenshots/1.png)](screenshots/1.png)
-[![Tela 2](screenshots/2.png)](screenshots/2.png)
-[![Tela 3](screenshots/3.png)](screenshots/3.png)  
-[![Tela 4](screenshots/4.png)](screenshots/4.png)
-[![Tela 5](screenshots/5.png)](screenshots/5.png)
-[![Tela 6](screenshots/6.png)](screenshots/6.png)
+<p align="center">
+  <a href="screenshots/1.png"><img src="screenshots/1.png" width="150" /></a>
+  <a href="screenshots/2.png"><img src="screenshots/2.png" width="150" /></a>
+  <a href="screenshots/3.png"><img src="screenshots/3.png" width="150" /></a>
+</p>
+<p align="center">
+  <a href="screenshots/4.png"><img src="screenshots/4.png" width="150" /></a>
+  <a href="screenshots/5.png"><img src="screenshots/5.png" width="150" /></a>
+  <a href="screenshots/6.png"><img src="screenshots/6.png" width="150" /></a>
+</p>
 
 ---
 
