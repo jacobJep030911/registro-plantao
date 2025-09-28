@@ -54,10 +54,36 @@ Aplicativo Android desenvolvido para auxiliar profissionais em ambientes de cuid
 
 ---
 
-## 📸 Galeria Interativa
+## 📸 Galeria de Imagens
 
-<style>
-  .gallery img {
-    width: 180px;
-    border-radius: 8px;
-    box-shadow
+Clique nas imagens para ampliar:
+
+[![Tela 1](screenshots/1.png)](screenshots/1.png)
+[![Tela 2](screenshots/2.png)](screenshots/2.png)
+[![Tela 3](screenshots/3.png)](screenshots/3.png)  
+[![Tela 4](screenshots/4.png)](screenshots/4.png)
+[![Tela 5](screenshots/5.png)](screenshots/5.png)
+[![Tela 6](screenshots/6.png)](screenshots/6.png)
+
+---
+
+## 📦 Build
+
+- **Versão:** `0.1`  
+- **Última Atualização:** `2023-07-10`  
+- **Ambiente:** `Produção`
+
+---
+
+## ✍️ Autor
+
+**Thiago Placido**  
+Desenvolvedor iniciante com perfil investigativo e realista. Apaixonado por soluções práticas, interfaces funcionais e tecnologia com propósito.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.  
+This project is under the MIT License.  
+Este proyecto está bajo la licencia MIT.
